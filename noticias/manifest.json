@@ -1,7 +1,7 @@
 {
   "name": "Noticias Aldeadavila",
   "version": "1.0",
-  "manifest_version": 3,
+  "manifest_version": 2,
   "description": "Noticias sobre aldeadavila.",
   "browser_action": {
     "default_icon": {

@@ -1,6 +1,3 @@
-# navigators-extensions
-Navigator util extensions
-
 # Chrome install
 To load the extension, you need to:
 
@@ -13,8 +10,5 @@ To load the extension, you need to:
 Install web-ext globally
 ```
 npm install --global web-ext
-```
-In the folder that contain manifest run:
-```
 web-ext run
 ```
